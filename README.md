@@ -2,4 +2,4 @@
 
 You know about Data Analyst?🤔
 
-its interesed went im bored
+its interesed went im bored and make good portofolio
