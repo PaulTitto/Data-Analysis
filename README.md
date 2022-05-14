@@ -3,3 +3,5 @@
 You know about Data Analyst?🤔
 
 its interesed went im bored and make good portofolio
+
+I will Post about Data Analyst..
