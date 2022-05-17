@@ -1,5 +1,8 @@
 <h3>INTRODUCTION</h3>
-Hey Everyone I'm Paul Titto.
+Hey Everyone I'm Paul Titto a Software Engineer.
+This is My Repository for Data Analysis
+
+
 
 
 You know about Data Analyst?🤔
