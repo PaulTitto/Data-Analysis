@@ -1,4 +1,4 @@
-<h3>INTRODUCI</h3>
+<h3>INTRODUCTION</h3>
 Hey Everyone I'm Paul Titto.
 
 
