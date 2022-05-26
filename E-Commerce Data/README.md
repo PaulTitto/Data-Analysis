@@ -8,4 +8,5 @@ Regular sales data analysis provides an understanding of the products that your 
 * Find most profitable customers
 * Get awareness on the market trends
 * Expand your market reach
+
 Here, I'll conduct a sales analysis on the E-Commerce dataset.
